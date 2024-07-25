@@ -1,5 +1,16 @@
 # Aula
-frase = "Meu professor é o melhor"
-numero_de_letras = len(frase)
+# 
+# nome_1 = input()
+# 
+# print(f" seu nome é: {nome_1})
 
-print(numero_de_letras )
+# Atividade
+
+primeiro_nome = input()
+segundo_nome = input()
+terceiro_nome = input()
+
+print(f"Qual o seu primeiro nome ? {primeiro_nome}")
+print(f"Qual o seu segundo nome ? {segundo_nome}")
+print(f"Qual o seu terceiro nome ? {terceiro_nome})
+
