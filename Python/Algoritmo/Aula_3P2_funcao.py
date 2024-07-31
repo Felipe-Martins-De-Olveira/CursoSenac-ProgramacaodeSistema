@@ -1,4 +1,4 @@
-# Aula
+"""  """# Aula
 # 
 # nome_1 = input()
 # 
@@ -13,4 +13,3 @@ terceiro_nome = input()
 print(f"Qual o seu primeiro nome ? {primeiro_nome}")
 print(f"Qual o seu segundo nome ? {segundo_nome}")
 print(f"Qual o seu terceiro nome ? {terceiro_nome})
-
