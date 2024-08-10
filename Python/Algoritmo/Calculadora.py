@@ -51,8 +51,11 @@ while True:
         resultado = n1 - n2
         break
 
-    elif operacao == "3":
-        resultado = n1 / n2
+    elif operacao == "3": 
+        try:
+            resultado = n1 / n2
+        except:
+            print("Não e possivel dividir para zero")
         break
 
     elif operacao == "4":

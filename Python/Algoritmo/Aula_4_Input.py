@@ -1,8 +1,8 @@
 # Aula
 
- nome_1 = input()
+# nome_1 = input()
  
- print(f" seu nome é: {nome_1})
+# print(f" seu nome é: {nome_1})
 
 # Atividade
 

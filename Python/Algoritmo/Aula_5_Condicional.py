@@ -26,7 +26,7 @@
     # print("Não é igual") 
 
 print("Escolha uma operação")
-print("A: Soma")
+print("A: Adição")
 print("B: Subtracao")
 print("C: Multiplicação")
 print("D: Divisão")
